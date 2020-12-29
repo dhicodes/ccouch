@@ -8,7 +8,7 @@ $options array
  * proto   => "http"
  * host    => "127.0.0.1"
  * port 	 => "5984"
- * dbase	 => "circa3_quest"
+ * dbase	 => "dbase name"
  * user    => "user"
  * pass    => "pass"
 
