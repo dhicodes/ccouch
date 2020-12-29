@@ -1,6 +1,6 @@
 <?php
 /*****
- * Class Couch core definition
+ * Class Diwan core definition
  * init as $obj = new Ccounch($options)
  * $options array
  * proto   => "http"
@@ -24,7 +24,7 @@
  * (c) dhi 2020
  */
 
-Class Ccouch {
+Class Diwan {
 	function __construct($options) {
 			foreach($options as $key => $value) {
 				$this->$key = $value;
