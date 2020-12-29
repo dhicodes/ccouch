@@ -1,5 +1,5 @@
-# ccouch
-PHP Interface to CouchDB with curl as agent
+# Diwan
+Simple PHP Interface to CouchDB with curl as HTTP agent
 
 /*
  * Class Couch core definition
